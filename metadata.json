@@ -1,0 +1,6 @@
+{
+  "name": "PoultryCockpit",
+  "description": "Commercial broiler poultry farm management application digitizing batch lifecycles, daily farm operations, liftings, financials, settlements, and intelligence driven by a centralized Business Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
