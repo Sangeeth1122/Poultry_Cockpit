@@ -2,7 +2,16 @@
 
 Version: 1.0
 Source documents used to author this file:
-- docs/PROJECT_UNDERSTANDING.md (Version 1.0)
+
+Read files in the following order:
+
+1. IMPLEMENTATION_STATUS.md
+2. DECISIONS.md
+3. DESIGN_SYSTEM.md
+4. AI_CONTEXT.md
+
+Read PROJECT_UNDERSTANDING.md ONLY if working on a new module or modifying architecture.
+
 - design-reference/functional-specification/Poultry Cockpit Functional Specification.pdf (Functional Specification)
 - Current repository contents (src/, supabase/, design-reference/)
 
